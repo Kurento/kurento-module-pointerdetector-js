@@ -1,0 +1,27 @@
+{
+  "name": "kurento-module-pointerdetector",
+  "description": "",
+  "homepage": "http://www.kurento.com",
+  "main": "dist/kurento-module-pointerdetector.js",
+  "authors": [
+    "Kurento <info@kurento.com> (http://kurento.org)"
+  ],
+  "license": "LGPL",
+  "repository": {
+    "type": "git",
+    "url": "Kurento/kurento-module-pointerdetector-js"
+  },
+  "keywords": [
+    "API",
+    "Kurento",
+    "KWS",
+    "SDK",
+    "web",
+    "WebRTC"
+  ],
+  "ignore": [
+    "doc/",
+    "lib/",
+    "package.json"
+  ]
+}
