@@ -1,6 +1,6 @@
 {
   "name": "kurento-module-pointerdetector",
-  "description": "",
+  "description": "Pointer Detector Filter",
   "homepage": "http://www.kurento.com",
   "main": "dist/kurento-module-pointerdetector.js",
   "authors": [
