@@ -1,6 +1,6 @@
 {
   "name": "kurento-module-pointerdetector",
-  "version": "Kurento/kurento-module-pointerdetector-js#develop",
+  "version": "0.0.1-dev",
   "description": "Pointer Detector Filter",
   "homepage": "http://www.kurento.com",
   "main": "lib/index.js",
@@ -11,8 +11,7 @@
     "url": "Kurento/kurento-module-pointerdetector-js"
   },
   "bugs": {
-    "url": "Kurento/kurento-module-pointerdetector-js/issues",
-    "email": "info@kurento.com"
+    "email": "kurento@googlegroups.com"
   },
   "keywords": [
     "API",
