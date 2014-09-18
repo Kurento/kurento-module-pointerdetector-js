@@ -1,27 +1,22 @@
 {
   "name": "kurento-module-pointerdetector",
   "description": "Pointer Detector Filter",
-  "homepage": "http://www.kurento.com",
   "main": "dist/kurento-module-pointerdetector.js",
-  "authors": [
-    "Kurento <info@kurento.com> (http://kurento.org)"
-  ],
-  "license": "LGPL",
-  "repository": {
-    "type": "git",
-    "url": "Kurento/kurento-module-pointerdetector-js"
-  },
-  "keywords": [
-    "API",
-    "Kurento",
-    "KWS",
-    "SDK",
-    "web",
-    "WebRTC"
-  ],
   "ignore": [
     "doc/",
     "lib/",
     "package.json"
-  ]
+  ],
+  "keywords": [
+    "Kurento"
+  ],
+  "license": "LGPL",
+  "homepage": "http://www.kurento.com",
+  "authors": [
+    "Kurento <info@kurento.com> (http://kurento.org)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "Kurento/kurento-module-pointerdetector-js"
+  }
 }
