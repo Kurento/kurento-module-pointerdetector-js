@@ -1,6 +1,6 @@
 {
   "name": "kurento-module-pointerdetector",
-  "version": "0.0.1-dev",
+  "version": "1.0.0-dev",
   "description": "Pointer Detector Filter",
   "main": "lib/index.js",
   "keywords": [
@@ -15,7 +15,7 @@
     "inherits": "^2.0.1"
   },
   "peerDependencies": {
-    "kurento-client": "5.0.0-dev"
+    "kurento-client": "^5.0.0"
   },
   "license": "LGPL",
   "homepage": "http://www.kurento.com",
