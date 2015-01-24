@@ -21,7 +21,7 @@
   "devDependencies": {
     "kurento-client-core": "Kurento/kurento-client-core-js#develop",
     "kurento-client-elements": "Kurento/kurento-client-elements-js#develop",
-    "kurento-client-filters": "Kurento/kurento-client-filters-js#develop",
+    "kurento-client-filters": "5.1.0",
     "bower": "~1.3.12",
     "grunt": "~0.4.5",
     "grunt-browserify": "^3.1.0",
