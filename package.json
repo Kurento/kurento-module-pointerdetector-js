@@ -1,6 +1,6 @@
 {
   "name": "kurento-module-pointerdetector",
-  "version": "6.1.1",
+  "version": "6.1.2-dev",
   "description": "Pointer Detector Filter",
   "main": "lib/index.js",
   "repository": {
