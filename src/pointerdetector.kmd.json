@@ -1,6 +1,6 @@
 {
   "name": "pointerdetector",
-  "version": "6.1.2-dev",
+  "version": "6.2.0",
   "kurentoVersion": "^6.1.0",
   "imports": [
     {
@@ -28,13 +28,13 @@
         "nodeName": "kurento-module-pointerdetector",
         "npmDescription": "Pointer Detector Filter",
         "npmGit": "Kurento/kurento-module-pointerdetector-js",
-        "npmVersion": "Kurento/kurento-module-pointerdetector-js"
+        "npmVersion": "6.2.0"
       },
       "java": {
         "mavenGroupId": "org.kurento.module",
         "packageName": "org.kurento.module.pointerdetector",
         "mavenArtifactId": "pointerdetector",
-        "mavenVersion": "6.1.2-SNAPSHOT"
+        "mavenVersion": "6.2.0"
       }
     },
     "implementation": {
