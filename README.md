@@ -12,7 +12,7 @@ kurento-module-pointerdetector-js
 
 This repository host the auto-generated JavaScript client for [Kurento] module "pointerdetector".
 
-Module "pointerdetector" description: Pointer Detector Filter
+Module "pointerdetector" description: JavaScript Client API for Kurento Media Server
 
 What is Kurento
 ---------------

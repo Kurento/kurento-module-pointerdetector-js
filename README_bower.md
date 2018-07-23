@@ -13,7 +13,7 @@ kurento-module-pointerdetector-bower
 This repository host the auto-generated JavaScript client for [Kurento]
 module "pointerdetector" to be published in [Bower].
 
-Module "pointerdetector" description: Pointer Detector Filter
+Module "pointerdetector" description: JavaScript Client API for Kurento Media Server
 
 What is Kurento
 ---------------

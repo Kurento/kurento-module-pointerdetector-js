@@ -1,7 +1,7 @@
 {
   "name": "kurento-module-pointerdetector",
   "version": "6.7.1-dev",
-  "description": "Pointer Detector Filter",
+  "description": "JavaScript Client API for Kurento Media Server",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
